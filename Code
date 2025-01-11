@@ -108,17 +108,18 @@
         <div id="legend">
             <h2>Legend</h2>
             <ul>
-                <li><img src="images/burger.png" alt="Burger"> Fast food restaurants.</li>
+                <li><img src="images/1046784.png" alt="Burger"> Fast food restaurants.</li>
                 <li><img src="images/cupcake.png" alt="Cupcake"> Dessert shops.</li>
-                <li><img src="images/coffee.png" alt="Dine In"> Cozy cafes.</li>
+                <li><img src="images/coffeepic.png" alt="Dine In"> Cozy cafes.</li>
             </ul>
             <div class="comments" id="comments">
                 <p>Select a restaurant on the map to leave a comment and rating.</p>
             </div>
         </div>
         <div id="map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d465130.67126773664!2d54.22894753035222!3d24.387099416720044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5e440f723ef2b9%3A0xc7cc2e9341971108!2sAbu%20Dhabi!5e0!3m2!1sen!2sae!4v1736429046802!5m2!1sen!2sae" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1K6f4NIDxnYDntAB-cCwh8kpUMOfQAlw&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
         </div>
     </main>
 </body>
 </html>
+
